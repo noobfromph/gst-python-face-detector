@@ -1,0 +1,10 @@
+{
+ "items": [
+  {
+   "name": "John Do",
+   "short_name": "john",
+   "im_sample_path": "data/faces/john.png",
+   "audio": "data/audio/john.mp3"
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+pyttsx3
+numpy
+face_recognition
+opencv-python
